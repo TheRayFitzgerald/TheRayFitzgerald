@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheRayFitzgerald
-- 👀 I’m interested in full-stack engineering, SaaS and indiehacking.
+- 👀 I’m interested in full-stack engineering, SaaS and indie startups.
 - 🌱 I’m currently working on SaaS projects - React and Django.
 - 🤝 I’m looking to collaborate on SaaS projects
 
